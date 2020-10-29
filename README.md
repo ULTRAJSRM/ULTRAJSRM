@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Jorge S Ruiz - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<!--
-**ULTRAJSRM/ULTRAJSRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Here are some ideas to get you started:
+## I'm a Data Scientist with a BSc. in Astronomy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m currently working on BI department in an eCommerce Company.
+- 📚 Platzi Master Student (Platzi.com).
+- 📚 I’m always learning about business and technical tools to improve myself. 
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to draw, PC hardware, startups and Anime (it's not like i like you.. b..baka!).
+
+---
