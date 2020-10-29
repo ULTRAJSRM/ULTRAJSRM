@@ -12,9 +12,9 @@
 
 ### Reach me
 [![Github](https://img.shields.io/github/followers/ULTRAJSRM?label=Follow&style=social)](https://github.com/ULTRAJSRM)
-[![Instagram](https://img.shields.io/badge/-@jorge_sm1-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jorge_sm1/)](https://www.instagram.com/jorge_sm1/)
+[![Instagram](https://img.shields.io/badge/-@Jorge%20Ruiz-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jorge_sm1/)](https://www.instagram.com/jorge_sm1/)
 [![Linkedin](https://img.shields.io/badge/-Jorge%20Ruiz-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgesrm/)](https://www.linkedin.com/in/jorgesrm/)
-[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
+[![Mail](https://img.shields.io/badge/-jsrm.physics@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/jorgesrm/)](mailto:jsrm.physics@gmail.com)
 ### Languages and Tools 🛠 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-0078D6?style=flat-square&logo=r&logoColor=ffffff)
