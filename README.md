@@ -11,8 +11,6 @@
 - ⚡ Fun fact: I love drawing, PC hardware, startups and Anime (it's not like i like you .. b..baka!).
 
 <br />
----
-
 ### Languages and Tools 🛠 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-0078D6?style=flat-square&logo=r&logoColor=ffffff)
