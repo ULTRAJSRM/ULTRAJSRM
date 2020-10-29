@@ -10,8 +10,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love drawing, PC hardware, startups and Anime (it's not like i like you .. b..baka!).
 
-<a href="https://www.linkedin.com/in/jorgesrm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20S%20Ruiz-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/jorge_sm1/?&logo=instagram&logoColor=white&link=[https://www.instagram.com/jorge_sm1/](https://www.instagram.com/jorge_sm1/))](https://www.instagram.com/jorge_sm1/)
-
+<a href="https://www.linkedin.com/in/jorgesrm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20S%20Ruiz-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/jorge_sm1?&logo=instagram&logoColor=white&link=[https://www.instagram.com/jorge_sm1/](https://www.instagram.com/jorge_sm1/))](https://instagram.com/jorge_sm1)
 ### Languages and Tools 🛠 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-0078D6?style=flat-square&logo=r&logoColor=ffffff)
