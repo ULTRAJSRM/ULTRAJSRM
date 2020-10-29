@@ -10,7 +10,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love drawing, PC hardware, startups and Anime (it's not like i like you .. b..baka!).
 
-
+<a href="https://www.linkedin.com/in/jorgesrm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Ruiz%20Dias-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-anabaiana__-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/anabaiana_/](https://www.instagram.com/anabaiana_/))](https://instagram.com/anabaiana_)
 
 ### Languages and Tools 🛠 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
