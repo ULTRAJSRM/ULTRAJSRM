@@ -10,7 +10,8 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love drawing, PC hardware, startups and Anime (it's not like i like you .. b..baka!).
 
-<br />
+
+
 ### Languages and Tools 🛠 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-0078D6?style=flat-square&logo=r&logoColor=ffffff)
@@ -27,5 +28,6 @@
 ![Latex](http://img.shields.io/badge/-Latex-0078D6?style=flat-square&logo=Latex&logoColor=ffffff)
 ![Kotlin](http://img.shields.io/badge/-Kotlin-0078D6?style=flat-square&logo=Kotlin&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
-<br/>
+
+
 
