@@ -26,7 +26,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=Linux&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-%23F05032?style=flat-square&logo=Linux&logoColor=%23ffffff)
 ![Spark](http://img.shields.io/badge/-Spark-0078D6?style=flat-square&logo=apache-spark&logoColor=ffffff)
 ![Latex](http://img.shields.io/badge/-Latex-0078D6?style=flat-square&logo=Latex&logoColor=ffffff)
 ![Kotlin](http://img.shields.io/badge/-Kotlin-0078D6?style=flat-square&logo=Kotlin&logoColor=ffffff)
