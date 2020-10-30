@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Data Scientist with a BSc. in Astronomy  
+## Data Scientist (BSc. in Astronomy)  
 
 - 👨‍💻 I’m currently working on BI department in an eCommerce Company.
 - 📚 Platzi Master Student (Platzi.com).
