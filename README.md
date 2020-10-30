@@ -4,10 +4,10 @@
 
 ## Data Scientist (BSc. in Astronomy)  
 
-- 👨‍💻 I’m currently working on BI department in an eCommerce Company.
+- 👨‍💻 I’m currently working in the BI department at an eCommerce Company.
 - 📚 Platzi Master Student (Platzi.com).
-- 📚 I’m always learning about business and new technical tools to improve myself. 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 📚 I’m always learning about business and new technical tools to improve my skills. 
+- 💪🏼 Future Goals: Keep learning new technologies - Never stop developing new ideas.
 - ⚡ Fun fact: I love drawing, PC hardware, startups and Anime (it's not like i like you .. b..baka!).
 
 ### Reach me
