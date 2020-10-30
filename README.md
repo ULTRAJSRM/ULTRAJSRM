@@ -21,7 +21,7 @@
 ![Rmarkdown](http://img.shields.io/badge/-Rmarkdown-0078D6?style=flat-square&logo=r&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Microsoft SQL Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -32,6 +32,7 @@
 ![Kotlin](http://img.shields.io/badge/-Kotlin-0078D6?style=flat-square&logo=Kotlin&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
 ![Pycharm](http://img.shields.io/badge/-Pycharm-3776AB?style=flat-square&logo=pycharm&logoColor=ffffff)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-CC2927?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 
 
