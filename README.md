@@ -31,6 +31,7 @@
 ![Latex](http://img.shields.io/badge/-Latex-181717?style=flat-square&logo=Latex)
 ![Kotlin](http://img.shields.io/badge/-Kotlin-0078D6?style=flat-square&logo=Kotlin&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
+![Pycharm](http://img.shields.io/badge/-Pycharm-3776AB?style=flat-square&logo=pycharm&logoColor=ffffff)
 
 
 
