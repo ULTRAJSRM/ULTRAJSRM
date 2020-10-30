@@ -33,7 +33,7 @@
 ![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
 ![Pycharm](http://img.shields.io/badge/-Pycharm-3776AB?style=flat-square&logo=pycharm&logoColor=ffffff)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-CC2927?style=flat-square&logo=android-studio&logoColor=ffffff)
-![Anaconda](https://img.shields.io/badge/-Anaconda-FCA121?style=flat-square&logo=anaconda)
+![Anaconda](http://img.shields.io/badge/-Anaconda-3776AB?style=flat-square&logo=anaconda&logoColor=ffffff)
 
 
 
